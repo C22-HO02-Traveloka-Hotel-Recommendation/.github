@@ -30,3 +30,4 @@ Having such a varied user base and inventory brings in new challenges. One of th
  👩‍💻 Useful resources <br>
 [Project Google Drive](https://drive.google.com/drive/folders/1VRO6qEIXI1vR62Z64R47P_TtoQfdp4ol?usp=sharing) <br>
 [Project Discord](https://discord.gg/2x2aTxePZ7)
+[Project Trello](https://trello.com/b/uGZmNYHr/recomendation-hotel)
